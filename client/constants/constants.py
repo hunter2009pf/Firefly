@@ -1,0 +1,3 @@
+WINDOW_TITLE = "流萤"
+
+SWITCH_CHARACTER = "换人"
