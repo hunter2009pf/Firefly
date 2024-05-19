@@ -10,3 +10,5 @@
 Create a world that has Firefly!
 
 ## Architecture
+
+![image](https://github.com/hunter2009pf/Firefly/assets/32154029/4a416805-7faf-453d-be88-86b0a5408802)
